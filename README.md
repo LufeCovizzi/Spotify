@@ -4,7 +4,7 @@ Este é um projeto de clone da interface do Spotify, desenvolvido com foco em pr
 
 ## 🔍 Pré-visualização
 
-Veja uma demonstração do projeto: [Acesse aqui](https://lufecovizzi.github.io/Spotify)
+Veja uma demonstração do projeto: [Acesse aqui](https://lufecovizzi.github.io/Spotify/index.html)
 
 
 ## 🚀 Tecnologias Utilizadas
